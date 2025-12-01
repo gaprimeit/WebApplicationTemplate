@@ -2,7 +2,7 @@
 
 ## Descripción
 
-FlightBookingAPI es una API REST desarrollada en .NET Core 8 para la gestión de reservas de vuelos. Permite consultar vuelos disponibles, crear reservas, cancelar reservas y obtener información de reservas existentes.  
+Esta API permite consultar vuelos disponibles, crear reservas, cancelar reservas y obtener información de reservas existentes.  
 El proyecto está diseñado siguiendo una arquitectura por capas, aplicando buenas prácticas de SOLID, validaciones de negocio, manejo de errores, logging y pruebas unitarias.
 
 ---
